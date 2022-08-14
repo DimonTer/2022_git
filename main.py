@@ -4,4 +4,4 @@ h1 = House()
 
 h1.konder(2)
 
-h1.batary(89)
+h1.batary(9)
